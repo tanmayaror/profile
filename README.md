@@ -1,6 +1,3 @@
-# Personal-Website
-Tanmay Arora: Virtual Portfolio
-
 Thanks for downloading this template!
 
 Template Name: iPortfolio
